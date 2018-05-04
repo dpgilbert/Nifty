@@ -1,0 +1,50 @@
+digraph {
+	0 [label=p]
+	1 [label=p]
+	-1 [label=u]
+	2212 -> -1
+	1 [label=u]
+	2212 -> 1
+	23 [label=Z]
+	-1 -> 23
+	23 [label=Z]
+	1 -> 23
+	23 [label=Z]
+	1 -> 23
+	23 [label=Z]
+	1 -> 23
+	23 [label=Z]
+	1 -> 23
+	-13 [label=mu]
+	23 -> -13
+	13 [label=mu]
+	23 -> 13
+	13 [label=mu]
+	23 -> 13
+	22 [label=pho]
+	13 -> 22
+	-13 [label=mu]
+	23 -> -13
+	21 [label=glu]
+	2212 -> 21
+	21 [label=glu]
+	2212 -> 21
+	21 [label=glu]
+	2212 -> 21
+	2212 [label=p]
+	2212 -> 2212
+	1 [label=u]
+	2212 -> 1
+	2212 [label=p]
+	2212 -> 2212
+	2212 [label=p]
+	2212 -> 2212
+	2212 [label=p]
+	2212 -> 2212
+	2212 [label=p]
+	2212 -> 2212
+	2212 [label=p]
+	2212 -> 2212
+	2212 [label=p]
+	2212 -> 2212
+}
